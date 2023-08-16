@@ -1,0 +1,49 @@
+#zone{
+  padding: 9% 0;
+  .zone{
+    &--one{
+      h2{
+        color: #E5E7EB;
+        font-weight: 700;
+        font-size: 42px;
+        text-align: center;
+        line-height: 55px;
+        padding: 10px 0;
+      }
+      p{
+        text-align: center;
+        color: #E5E7EB;
+        font-weight: 500;
+        font-size: 16px;
+      }
+    }
+    &--too{
+      padding: 24px 0;
+      width: 370px;
+      height: 336px;
+      background: linear-gradient(268.12deg, rgba(254, 254, 255, 0.032) -11.04%, rgba(255, 255, 255, 0.018) 104.89%);
+      box-shadow: 0 22px 18px rgba(0, 0, 0, 0.05);
+      border-radius: 34px;
+      P{
+        //position: fixed;
+        color: #E5E7EB;
+        font-size: 16px;
+        font-weight: 500;
+        text-align: center;
+        padding: 6% 0;
+      }
+      h4{
+        color: #E5E7EB;
+        font-weight: 500;
+        font-size: 21px;
+        text-align: center;
+      }
+      h2{
+        color: #E5E7EB;
+        font-size: 16px;
+        font-weight: 500;
+
+      }
+    }
+  }
+}

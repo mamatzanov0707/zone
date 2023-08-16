@@ -1,0 +1,17 @@
+#more{
+  .more{
+    &--zoom{
+      h2{
+        color: #E5E7EB;
+        font-weight: 700;
+        font-size: 37px;
+      }
+      p{
+        color: #E5E7EB;
+        font-weight: 500;
+        font-size: 17px;
+        padding: 20px 0;
+      }
+    }
+  }
+}

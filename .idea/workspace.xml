@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e7376e1-73d8-4823-8969-d0532382c76d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/conponents/ more/more.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conponents/Met  Team/Met  Team.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conponents/care/care.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conponents/email/email.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conponents/footer/footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conponents/header/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conponents/hero/hero.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conponents/zone/zone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/Met  Team/Met  Team.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/care/care.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/email/email.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/footer/footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/header/header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/hero/hero.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/more/more.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/zone/zone.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Sass File" />
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Nj2NRZVXlOvbf5FStXC9DqU9Wb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/js-27/zone&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;SCSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\js-27\zone\src\conponents" />
+      <recent name="C:\js-27\zone\src\styles" />
+      <recent name="C:\js-27\zone\src\conponents\hero" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e7376e1-73d8-4823-8969-d0532382c76d" name="Changes" comment="" />
+      <created>1680163130837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680163130837</updated>
+      <workItem from="1680163132055" duration="646000" />
+      <workItem from="1680163802507" duration="4235000" />
+      <workItem from="1680220297346" duration="1034000" />
+      <workItem from="1680221379035" duration="5213000" />
+      <workItem from="1680227173235" duration="12000" />
+      <workItem from="1680227195663" duration="7384000" />
+      <workItem from="1680248085492" duration="9199000" />
+      <workItem from="1680304916729" duration="726000" />
+      <workItem from="1680306948916" duration="5558000" />
+      <workItem from="1680326976989" duration="8062000" />
+      <workItem from="1680421499013" duration="605000" />
+      <workItem from="1680502147401" duration="1525000" />
+      <workItem from="1680504164084" duration="68000" />
+      <workItem from="1680510897436" duration="367000" />
+      <workItem from="1680511702330" duration="601000" />
+      <workItem from="1680622696353" duration="1533000" />
+      <workItem from="1681020445905" duration="926000" />
+      <workItem from="1682503481171" duration="325000" />
+      <workItem from="1682609917578" duration="74000" />
+      <workItem from="1682610297423" duration="751000" />
+      <workItem from="1682613019173" duration="882000" />
+      <workItem from="1682748290809" duration="56000" />
+      <workItem from="1683015144892" duration="3000" />
+      <workItem from="1683036347797" duration="4000" />
+      <workItem from="1683956084357" duration="61000" />
+      <workItem from="1683956160124" duration="2098000" />
+      <workItem from="1683997513233" duration="6000" />
+      <workItem from="1684324832884" duration="10000" />
+      <workItem from="1686507262882" duration="603000" />
+      <workItem from="1686634743631" duration="849000" />
+      <workItem from="1687196014836" duration="22000" />
+      <workItem from="1688016987829" duration="316000" />
+      <workItem from="1688019319055" duration="593000" />
+      <workItem from="1689403145744" duration="11000" />
+      <workItem from="1689403547270" duration="914000" />
+      <workItem from="1690296096596" duration="1777000" />
+      <workItem from="1690348057453" duration="2721000" />
+      <workItem from="1691917706831" duration="161000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

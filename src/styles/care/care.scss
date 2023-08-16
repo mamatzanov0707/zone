@@ -1,0 +1,17 @@
+#care{
+  .care{
+    &--too{
+      h2{
+        color: #E5E7EB;
+        font-weight: 700;
+        font-size: 38px;
+      }
+      p{
+        color: #E5E7EB;
+        font-weight: 500;
+        font-size: 16px;
+        padding: 23px 0;
+      }
+    }
+  }
+}

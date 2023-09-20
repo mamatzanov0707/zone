@@ -1,30 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e7376e1-73d8-4823-8969-d0532382c76d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/conponents/ more/more.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conponents/Met  Team/Met  Team.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conponents/care/care.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conponents/email/email.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conponents/footer/footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conponents/header/header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conponents/hero/hero.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conponents/zone/zone.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/Met  Team/Met  Team.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/care/care.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/email/email.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/footer/footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/header/header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/hero/hero.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/more/more.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/zone/zone.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    <list default="true" id="3e7376e1-73d8-4823-8969-d0532382c76d" name="Changes" comment="zamirbek">
+      <change beforePath="$PROJECT_DIR$/../zone/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zone/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../zone" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -115,7 +93,17 @@
       <workItem from="1690296096596" duration="1777000" />
       <workItem from="1690348057453" duration="2721000" />
       <workItem from="1691917706831" duration="161000" />
+      <workItem from="1692168596411" duration="415000" />
+      <workItem from="1694676389523" duration="7000" />
     </task>
+    <task id="LOCAL-00001" summary="zamirbek">
+      <created>1692168987081</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692168987081</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,5 +119,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="zamirbek" />
+    <option name="LAST_COMMIT_MESSAGE" value="zamirbek" />
   </component>
 </project>
